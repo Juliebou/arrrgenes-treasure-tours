@@ -62,7 +62,7 @@ body {
 }
 
 .nav a:focus {
-  outline: 0.5rem solid #fff;
+  outline: .5rem solid #fff;
   outline-offset: .2rem;
 }
 
@@ -112,7 +112,7 @@ body {
 }
 
 .banner a:focus {
-  outline: 0.5rem solid #fff;
+  outline: .5rem solid #fff;
   outline-offset: .2rem;
 }
 
