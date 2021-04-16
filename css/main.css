@@ -50,10 +50,14 @@ body {
 }
 
 .nav a {
-  color: #bea59b;    /*#fff*/
+  color: #fff;
   padding: .5em;
   border-radius: 1em;
   text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #bea59b;
 }
 
 .banner {
@@ -63,6 +67,7 @@ body {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
+  background-color: #222;
 }
 
 .banner img {
