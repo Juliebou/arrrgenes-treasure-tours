@@ -58,6 +58,12 @@ body {
 
 .nav a:hover {
   background-color: #bea59b;
+  color: #522806;
+}
+
+.nav a:focus {
+  outline: 0.5rem solid #fff;
+  outline-offset: .2rem;
 }
 
 .banner {
