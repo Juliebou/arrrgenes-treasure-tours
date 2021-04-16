@@ -106,6 +106,16 @@ body {
   text-decoration: none;
 }
 
+.banner a:hover {
+  background-color: #bea59b;
+  color: #522806;
+}
+
+.banner a:focus {
+  outline: 0.5rem solid #fff;
+  outline-offset: .2rem;
+}
+
 .ship {
   padding: 2rem;
 }
